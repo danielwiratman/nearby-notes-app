@@ -2,7 +2,9 @@
 
 In this project I created a simple notes app that saves the location data of the note's maker, and saved it to a realtime database called Firebase Firestore.
 
-In the notes list page, there is indicator on where is the note created and the distance to that location.
+In the notes list page, there is indicator on where is the note created and the distance to that location. I also added that the home screen only shows notes created nearby (created not too far away).
+
+This project could be helpful in developing smart cities. Users can get updates what others have taken notes at that location, for example road holes, traffic jams, etc.
 
 ## Screenshots
 <br>
