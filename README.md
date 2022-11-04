@@ -12,6 +12,8 @@ In the notes list page, there is indicator on where is the note created and the 
 <img src=https://user-images.githubusercontent.com/74503671/187009060-853485a6-0f19-44dd-86cc-4e1f17b41d1e.png width=250 />
 </p>
 
-# Technologies Used
+## Technologies Used
 - Expo React Native
-- Firebase Firestore
+- React Native Paper for Material UI
+- Geolib for getting precise lat and long coordinates
+- Firebase Firestore for data persistence
